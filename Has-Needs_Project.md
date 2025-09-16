@@ -229,7 +229,7 @@ It is unlikely that the existing paradigm will be able to solve these problems e
   - The protocol is open for external, third-party providers to offer value-added services.
   - **Example - Physical Escrow:** A trusted third party could act as a physical escrow agent for contactless exchanges of goods between users.
   - **Example - On-Demand Verification:** A specialized service could be paid to perform a rapid, deep-chain validity assessment for high-stakes transactions, providing instant verification as a service.
-  - **Example - IoT data providers:** Every device as a sensor, is the long term trajectory of human interactions. All other IoT solutions are isolated, proprietary, and obscure to the average user. Adding these data streams to a personal resource map within Has-Needs is trivial, and frees the user to compose meaningful data stories to share or monetize at will.
+  - **Example - IoT data providers:** Every device as a sensor, is the long term trajectory of human interactions. All other IoT solutions are isolated, proprietary, and obscure to the average user. Adding these data streams to a personal resource map within Has-Needs is trivial, and frees the user to compose meaningful data stories to share or monetize at will. Has-Needs leverages XMPP for IoT interactions.
 
 ---
 

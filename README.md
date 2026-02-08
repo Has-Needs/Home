@@ -52,7 +52,7 @@ Information for academics interested in documenting sovereign coordination syste
 
 ### 🌐 [Project Website](https://omdesign.is/has-needs)
 
-### 📄 [White Paper](https://omdesign.is/has-needs-white-paper)
+### 📄 [White Paper](https://github.com/Has-Needs/Home/blob/main/Has-Needs%20White%20Paper.pdf)
 
 ---
 
@@ -180,7 +180,7 @@ Merit-based interaction, circular economy, sovereignty-preserving value exchange
 
 [**→ Full Technical Specification**](https://github.com/Has-Needs/docs/blob/main/Tech_Stack.md)
 
-[**→ Complete White Paper**](https://github.com/has-needs/has-needs-white-paper.pdf)
+[**→ Complete White Paper**](https://github.com/Has-Needs/Home/blob/main/Has-Needs%20White%20Paper.pdf)
 
 ---
 
@@ -269,7 +269,7 @@ Protocol challenges existing assumptions about:
 
 ## Documentation
 
-- **[White Paper](https://github.com/has-needs/has-needs-white-paper.pdf)** - Complete vision and architecture (50 pages)
+- **[White Paper](https://github.com/Has-Needs/Home/blob/main/Has-Needs%20White%20Paper.pdf)** - Complete vision and architecture (50 pages)
 - **[Technical Stack](https://github.com/Has-Needs/docs/blob/main/Tech_Stack.md)** - Implementation components
 - **[BIAS Protocol](https://github.com/om-design/BIAS/blob/main/AGENTS.md)** - Analytical framework for institutional bias detection
 - **[Discussions](https://github.com/orgs/Has-Needs/discussions)** - Join the conversation

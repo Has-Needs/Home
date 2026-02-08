@@ -52,7 +52,7 @@ Information for academics interested in documenting sovereign coordination syste
 
 ### 🌐 [Project Website](https://omdesign.is/has-needs)
 
-### 📄 [White Paper](Has-Needs White Paper.md)
+### 📄 [White Paper](/Has-Needs White Paper.md)
 
 ---
 

@@ -1,3 +1,85 @@
+# Has-Needs: The Holy Grail of Cryptographically Secured Sovereign Social Infrastructure
+
+*A personal receipt-chain architecture enabling radical sovereignty with cascading benefits across every domain of human coordination.*
+
+## What We've Achieved
+
+Personal receipt-chains storing only value exchanges, interoperating in a mesh-networked, local-first, self-healing autonomous system.
+
+**Design Principles:**
+- Jurisdiction-agnostic
+- Literacy-agnostic  
+- Technology-agnostic
+- Culturally appropriate by design
+- Architecturally exploitation-proof
+- Prosocial-inducing
+- Merit-based
+- Bad-actor detecting
+- Incentive-aligned
+- Human-needs agnostic
+
+**Technical Breakthrough:**
+Context-aware machine/human readable data triplets reduce AI processing by 85%. Safe human-dependent AI interaction. Asynchronous yet parallel coordination.
+
+## The Vision
+
+Imagine a forest of personal receipt-chains, mutually validating secure value exchanges, building local ontology and empowering every individual to seek personal goals and securely realize value from selfhood.
+
+Every person IS their own chain. Cryptographic receipts prove coordination without surveillance. Location-based scoping eliminates broadcast infrastructure. Infrastructure-independent operation.
+
+## The Cascade
+
+What does architectural sovereignty enable?
+
+- Disaster logistics (trauma-mitigating, dignity-preserving)
+- Participatory research (sovereign consent, zero extraction)
+- Refugee coordination (jurisdiction-agnostic, evidence-generating)
+- Indigenous knowledge protection (culturally appropriate, exploitation-proof)
+- Governance accountability (merit-based, bad-actor detecting)
+- Commerce (incentive-aligned, 85% processing reduction)
+- AI interaction (safe human-dependent, consent-by-default)
+- Human development (hopes/dreams equal to material needs)
+
+---
+
+## Learn More
+
+### 📘 [Full Project Documentation](./Has-Needs_Project.md)
+Complete technical architecture, philosophical framework, business model, and technology stack.
+
+### 🔬 [Research Partnership Opportunities](./Research_Partnership.md)
+Information for academics interested in documenting sovereign coordination systems.
+
+### 🌐 [Project Website](https://omdesign.is/has-needs)
+
+### 📄 [White Paper](https://omdesign.is/has-needs-white-paper)
+
+---
+
+## Origin Story
+
+Haiti 2010: Witnessing Big Aid reject "untrustable" humans during disaster response.
+
+15 years: Crisis mapping every major disaster (Standby Task Force, UNHCR, GIS Corps), studying every blockchain technology, refining the architecture.
+
+The result: Proven, ready, world-first innovations in sovereign infrastructure.
+
+---
+
+
+## Contact
+
+**Project Lead:** omdesign  
+**Email:** omdesign.is@gmail.com 
+**Discord:** [https://discord.gg/dv873cFBrJ](https://discord.gg/dv873cFBrJ)  
+**Bluesky:** @omdesign
+
+---
+
+Ready to deploy. Seeking partnership.
+
+
+
 # Welcome to WEB3.5
 ## Has-Needs is the Personal Receipt Chain
 ### This project represents a landmark departure from every other chain technology
@@ -11,6 +93,8 @@
 > **🚨 SEEKING SEED FUNDING:** $250K to build MVP and deploy in disaster coordination pilot. [Contact us](#contact) | [Read White Paper](https://github.com/Has-Needs/docs) | [Join Discord](https://discord.gg/dv873cFBrJ)
 
 ---
+
+# DEV Version  
 
 ## What is Has-Needs?
 
@@ -96,7 +180,7 @@ Merit-based interaction, circular economy, sovereignty-preserving value exchange
 
 [**→ Full Technical Specification**](https://github.com/Has-Needs/docs/blob/main/Tech_Stack.md)
 
-[**→ Complete White Paper**](https://omdesign.is/has-needs-white-paper)
+[**→ Complete White Paper**](https://github.com/has-needs/has-needs-white-paper.pdf)
 
 ---
 
@@ -168,6 +252,7 @@ Interested in being a deployment partner? We're looking for:
 - Indigenous nations
 - Agricultural communities
 - Climate-vulnerable regions
+- Unique learning institutions focused on post-capitalism
 
 **[→ Reach out](#contact)**
 
@@ -184,7 +269,7 @@ Protocol challenges existing assumptions about:
 
 ## Documentation
 
-- **[White Paper](https://omdesign.is/has-needs-white-paper)** - Complete vision and architecture (50 pages)
+- **[White Paper](https://github.com/has-needs/has-needs-white-paper.pdf)** - Complete vision and architecture (50 pages)
 - **[Technical Stack](https://github.com/Has-Needs/docs/blob/main/Tech_Stack.md)** - Implementation components
 - **[BIAS Protocol](https://github.com/om-design/BIAS/blob/main/AGENTS.md)** - Analytical framework for institutional bias detection
 - **[Discussions](https://github.com/orgs/Has-Needs/discussions)** - Join the conversation

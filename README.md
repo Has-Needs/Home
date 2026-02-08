@@ -52,7 +52,7 @@ Information for academics interested in documenting sovereign coordination syste
 
 ### 🌐 [Project Website](https://omdesign.is/has-needs)
 
-### 📄 [White Paper](https://github.com/Has-Needs/Home/blob/main/Has-Needs%20White%20Paper.pdf)
+### 📄 [White Paper](Has-Needs White Paper.md)
 
 ---
 
@@ -90,7 +90,7 @@ Ready to deploy. Seeking partnership.
 
 ## Mesh-Native Coordination Infrastructure for Community Sovereignty
 
-> **🚨 SEEKING SEED FUNDING:** $250K to build MVP and deploy in disaster coordination pilot. [Contact us](#contact) | [Read White Paper](https://github.com/Has-Needs/docs) | [Join Discord](https://discord.gg/dv873cFBrJ)
+> **🚨 SEEKING SEED FUNDING:** $250K to build MVP and deploy in disaster coordination pilot. [Contact us](#contact) | [Read White Paper](Has-Needs White Paper.md) | [Join Discord](https://discord.gg/dv873cFBrJ)
 
 ---
 
@@ -180,7 +180,7 @@ Merit-based interaction, circular economy, sovereignty-preserving value exchange
 
 [**→ Full Technical Specification**](https://github.com/Has-Needs/docs/blob/main/Tech_Stack.md)
 
-[**→ Complete White Paper**](https://github.com/Has-Needs/Home/blob/main/Has-Needs%20White%20Paper.pdf)
+[**→ Complete White Paper**](Has-Needs White Paper.md)
 
 ---
 
@@ -240,8 +240,6 @@ Revenue model ensures sustainability: 5% of disaster savings (typical County res
 
 ### 💻 For Developers
 We'll be hiring immediately upon funding:
-- 2 Senior Rust Engineers (mesh/backend)
-- 1 Frontend Engineer (React/geospatial UI)
 
 **[→ Join Discord](https://discord.gg/dv873cFBrJ)** to stay informed
 
@@ -269,7 +267,7 @@ Protocol challenges existing assumptions about:
 
 ## Documentation
 
-- **[White Paper](https://github.com/Has-Needs/Home/blob/main/Has-Needs%20White%20Paper.pdf)** - Complete vision and architecture (50 pages)
+- **[White Paper](Has-Needs White Paper.md)** - Complete vision and architecture (50 pages)
 - **[Technical Stack](https://github.com/Has-Needs/docs/blob/main/Tech_Stack.md)** - Implementation components
 - **[BIAS Protocol](https://github.com/om-design/BIAS/blob/main/AGENTS.md)** - Analytical framework for institutional bias detection
 - **[Discussions](https://github.com/orgs/Has-Needs/discussions)** - Join the conversation

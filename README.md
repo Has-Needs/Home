@@ -53,3 +53,8 @@ Historical project, persona, humanitarian, and research documents remain in the 
 Has-Needs grew from disaster-response and participatory mapping work and from the question: **how can people on the ground become trustworthy first-class participants without surrendering sovereignty?**
 
 The resulting architecture is intended to continue beyond disaster into recovery, ordinary community coordination, agriculture, research, commerce, governance, and other forms of value exchange without changing the underlying grammar.
+
+
+## License status
+
+Has-Needs is currently **source-visible but not open source**. All rights are reserved except for the limited reference/evaluation permissions stated in the repository `LICENSE`. Attribution is required for uses licensed by Has-Needs. Modification, redistribution, derivative works, deployment, commercial use, and AI-training use require prior written permission unless independently authorized by law or binding platform terms.

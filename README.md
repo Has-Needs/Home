@@ -21,7 +21,7 @@ A Has and Need can discover one another through scoped semantic matching. Humans
 - **Progressive disclosure** — Persona Manager + OCA make disclosure a state transition.
 - **Receipt-only durable exchange evidence** — completed value exchange is the default durable shared record.
 - **Local living ontology** — meaning and useful resolution pathways evolve from real outcomes.
-- **Contextual trust** — verification mechanisms produce interaction-specific trust scores; eight hops is the V1 full chain-hop verification depth.
+- **Live trust vetting** — first-order receipt relationships, chain-hop distance, grey-list status, and personal filters are shown as evidence; eight hops is the V1 full verification depth, with shallower checks allowed by user policy.
 - **Globe/RGB Data Views** — a literacy-agnostic visual workbench over sovereign data.
 - **Data Stories** — simple visual/mathematical composition can create private, shared, or streamed derived meaning.
 - **Collapse-native transport** — rich cloud/mesh operation can degrade toward local P2P, constrained links, or human relay.

@@ -1,60 +1,30 @@
 # Has-Needs
 
-**Sovereign coordination infrastructure for discovering and preserving successful state transitions.**
+**Disaster reveals holes in the social fabric. Where autonomy is strong, so is resilience.**
 
-Has-Needs began with disaster response: people closest to an event often hold the most valuable local knowledge, yet conventional systems require that knowledge to be collected, normalized, and owned elsewhere before it can become actionable.
+When infrastructure collapses, people’s knowledge, skills, and resources remain. Yet responders struggle to connect what is **available to what is needed**, while survivors lose the ability to participate directly in their own recovery. This loss of agency can have lasting consequences.
 
-Has-Needs instead gives each participant sovereign, directly addressable objects and a minimal shared grammar:
+**Has-Needs restores that agency through secure, individual digital sovereignty.** A digital sovereign can send trusted, actionable messages to responders and form instant communities to share information without surveillance or commercial extraction. Sovereign communities can self-organize and provide a coherent picture of local conditions when responders make contact.
 
-`[entity, relation, context]`
+**The Has-Needs mechanism is simple.** People express what they have and need, choose among potential matches, and make their own agreements. Successful exchanges are then recorded in a *personal receipt* and used to improve future matching.
 
-where `relation` is:
+Beyond disaster, Has-Needs provides **self-owned digital identity and the means to use it** for value exchange with peers and neighbors, aid organizations, emergency responders, government, and commerce.
 
-**HAS · NEED · WORKING**
+Citizens can participate directly in governance and **hold leaders accountable**. Vendors can find willing customers without buying mailing lists that are **85% useless and 100% spam**. Communities can coordinate without becoming dependent on outside entities.
 
-A Has and Need can discover one another through scoped semantic matching. Humans decide whether to enter Working. Completed value exchange produces a mutually verifiable canonical receipt. Those receipts become evidence of what has actually worked without requiring a global activity ledger.
+## [Read the Has-Needs V1 Specification →](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md)
 
-## Core architecture
+**Explore the architecture:**
 
-- **Person-first sovereignty** — the participant remains outside communities and institutions by default.
-- **Network non-enumerability** — people can inspect their own resources; no privileged actor gets a global shopping list of everybody else's.
-- **Progressive disclosure** — Persona Manager + OCA make disclosure a state transition.
-- **Receipt-only durable exchange evidence** — completed value exchange is the default durable shared record.
-- **Local living ontology** — meaning and useful resolution pathways evolve from real outcomes.
-- **Live trust vetting** — first-order receipt relationships, chain-hop distance, grey-list status, and personal filters are shown as evidence; eight hops is the V1 full verification depth, with shallower checks allowed by user policy.
-- **Globe/RGB Data Views** — a literacy-agnostic visual workbench over sovereign data.
-- **Data Stories** — simple visual/mathematical composition can create private, shared, or streamed derived meaning.
-- **Collapse-native transport** — rich cloud/mesh operation can degrade toward local P2P, constrained links, or human relay.
+- [Disaster and recovery](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md#1-disaster-is-the-baseline)
+- [Sovereignty and personal control](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md#part-v---persona-manager-oca-and-privacy-boundaries)
+- [Commerce without data extraction](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md#191-the-bazaar-commercial-discovery-without-a-data-broker)
+- [Accountability in governance and aid](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md#381-commercial-style-accountability-in-governance-and-aid)
 
-## Current status
+*Specification V1 is available for expert review. The reference implementation is in development.*
 
-**Specification V1:** working draft for expert review.  
-**Implementation:** experimental 0.x; not yet V1-conformant.
+[Development Roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md)
 
-The immediate goal is a minimal three-participant reference implementation proving:
+[GitHub Discussions](https://github.com/orgs/Has-Needs/discussions)
 
-`NEED → discovery → disclosure → WORKING → completion → receipt → lineage/ontology update`
-
-under both connected and intermittent conditions.
-
-## Start here
-
-- [Has-Needs Specification V1](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md)
-- [Development Roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md)
-- [Core Features](https://github.com/Has-Needs/docs/blob/main/Core_Features.md)
-- [UI/UX Vision](https://github.com/Has-Needs/docs/blob/main/UI_Vision.md)
-- [Reference Implementation Candidates](https://github.com/Has-Needs/docs/blob/main/Tech_Stack.md)
-- [Experimental Code](https://github.com/Has-Needs/code)
-
-Historical project, persona, humanitarian, and research documents remain in the documentation repository as design provenance.
-
-## Origin
-
-Has-Needs grew from disaster-response and participatory mapping work and from the question: **how can people on the ground become trustworthy first-class participants without surrendering sovereignty?**
-
-The resulting architecture is intended to continue beyond disaster into recovery, ordinary community coordination, agriculture, research, commerce, governance, and other forms of value exchange without changing the underlying grammar.
-
-
-## License status
-
-Has-Needs is currently **source-visible but not open source**. All rights are reserved except for the limited reference/evaluation permissions stated in the repository `LICENSE`. Attribution is required for uses licensed by Has-Needs. Modification, redistribution, derivative works, deployment, commercial use, and AI-training use require prior written permission unless independently authorized by law or binding platform terms.
+*Source-visible for reference and evaluation. See LICENSE for usage terms.*

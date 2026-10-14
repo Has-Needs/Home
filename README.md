@@ -1,36 +1,47 @@
 # Has-Needs
 
-**Disaster reveals holes in the social fabric. Where autonomy is strong, so is resilience.**
+<img src="./has-needs-logo.png" alt="Has-Needs logo" width="180">
 
-When infrastructure collapses, people’s knowledge, skills, and resources remain. Yet responders struggle to connect what is **available to what is needed**, while survivors lose the ability to participate directly in their own recovery. This loss of agency can have lasting consequences.
+**What do you have? What do you need? What can we accomplish together?**
 
-**More than fifteen years of refinement converged on one semantic triplet: `[entity, relation, context]`.** Its three relation states—`HAS`, `NEED`, and `WORKING`—let a shared grammar accommodate ordinary human exchanges, community aid, education, finance, and other specialized purposes. No standard classification or written language is required before someone begins: people express their Needs and capabilities in their own local dialect or accessible mode, and meanings grow outward as their relationships and successful exchanges connect.
+## Cooperation without surrendering sovereignty
 
-**Human exchange is the foundation; institutions participate through composable, permission-scoped services.** A university can certify a degree arising from an educational exchange or confirm it directly from its own records without exposing the student's private chain or transaction history. Such attestations do not create a new identity system.
+Much of human life is an exchange of value. We give and receive care, time, knowledge, labor, resources, and trust. Yet the digital systems that mediate these exchanges often require us to give someone else control over our identities, information, and records of participation.
 
-**Has-Needs restores that agency through secure, individual digital sovereignty.** A digital sovereign can send trusted, actionable messages to responders and form instant communities to share information without surveillance or commercial extraction. Sovereign communities can self-organize and provide a coherent picture of local conditions when responders make contact.
+**Has-Needs is a world-first architecture for sovereign human exchange.** Instead of placing a platform or institution at the center, it begins with individuals: what they have, what they need, and what they voluntarily agree to accomplish together.
 
-**The Has-Needs mechanism is simple.** People express what they have and need, and independently decide whether to accept a match. The associated Has and Need then enter `WORKING` together while the Need executes its conditions. After an exchange, both independently mark completion, add any optional comments, choose what is encrypted or plaintext, and preview each other's disclosure choices before selecting **Ready to commit**. Their Persona Managers write identical final transaction receipts on the private chains; matching receipts establish completed exchange.
+A person can express a need or offer something useful. Others can discover that opportunity, agree on terms, and cooperate. Once an exchange is completed, the people involved preserve their own verifiable records of it. They control what they disclose, to whom, and in which part of their lives.
 
-**The Persona Manager acts as a concierge, managing interactions through any number of user-created personas while their underlying personal chain remains sacrosanct.** People can associate professional personas with completed work without letting outsiders inspect their chains or link their other personas.
+This is more than a different way to find resources. It is a way to build relationships and lasting evidence of cooperation **without making people dependent on a central intermediary**.
 
-Beyond disaster, Has-Needs provides **self-owned digital identity and the means to use it** for value exchange with peers and neighbors, aid organizations, emergency responders, government, and commerce.
+## Imagine starting with one person
 
-Citizens can participate directly in governance and **hold leaders accountable**. Vendors can find willing customers without buying mailing lists that are **85% useless and 100% spam**. Communities can coordinate without becoming dependent on outside entities.
+Disaster reveals holes in the social fabric. A survivor may need rescue, but also know where other people are trapped or which roads are passable. Their knowledge matters. They should be able to contribute directly, not merely become an entry in an organization's database.
 
-## [Read the Has-Needs V1 Specification →](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md)
+Now imagine neighbors sharing tools, someone providing first aid, others locating transport, and a community coordinating its own response. Each participant can contribute what they have, express what they need, and choose whom to trust. Organizations and responders can join that effort without taking it over.
 
-**Explore the architecture:**
+**The same design works on an ordinary Tuesday.** A farmer can find others to pool a purchase. A resident can ask a municipality to address a water problem and preserve the record of an accepted commitment. A researcher can invite willing participants to contribute knowledge on agreed terms. Communities can organize around shared purposes while retaining authority over their information and relationships.
 
-- [Disaster and recovery](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md#1-disaster-is-the-baseline)
-- [Sovereignty and personal control](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md#part-v---persona-manager-oca-and-privacy-boundaries)
-- [Commerce without data extraction](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md#191-the-bazaar-commercial-discovery-without-a-data-broker)
-- [Accountability in governance and aid](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md#381-commercial-style-accountability-in-governance-and-aid)
+## What makes it different?
 
-*Specification V1 is available for expert review. The reference implementation is in development.*
+Has-Needs is not simply a disaster app, a marketplace, or a social network. It is a common foundation that lets those kinds of interactions grow from the same human-centered rules.
 
-[Development Roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md)
+People can participate through different facets of their lives without exposing everything about themselves. Knowledge holders and communities choose what they share. Trust develops through experience and evidence of completed exchanges, rather than a platform assigning everyone a reputation. Institutions can provide services and attest to outcomes without becoming owners of the underlying relationships.
 
-[GitHub Discussions](https://github.com/orgs/Has-Needs/discussions)
+The architecture was shaped by geographic-information work, community self-determination, and emergency response. The 2010 Haiti earthquake response was a turning point in a design effort refined over more than fifteen years.
 
-*Source-visible for reference and evaluation. See LICENSE for usage terms.*
+Its aim is not to make human cooperation more complicated. It is to **make the machinery behind cooperation simpler, more accessible, and more respectful of the people using it**.
+
+**Sovereignty is not something we must sacrifice to cooperate. It is where cooperation begins.**
+
+## Explore further
+
+- **[Documentation homepage](https://github.com/Has-Needs/docs)** — the best place to start exploring
+- [One-page introduction](https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md) — the core idea through an example
+- [V1 architectural specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md) — the complete protocol
+- [Core features](https://github.com/Has-Needs/docs/blob/main/Core_Features.md) — how the pieces work together
+- [Origins and history](https://github.com/Has-Needs/docs/blob/main/HISTORY.md) — how the ideas developed
+- [Development roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md) — the path forward
+- [Experimental code](https://github.com/Has-Needs/code) and [Discussions](https://github.com/orgs/Has-Needs/discussions)
+
+*Source-visible for reference and evaluation. See [LICENSE](./LICENSE) for usage terms.*

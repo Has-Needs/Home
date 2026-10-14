@@ -4,6 +4,10 @@
 
 When infrastructure collapses, people’s knowledge, skills, and resources remain. Yet responders struggle to connect what is **available to what is needed**, while survivors lose the ability to participate directly in their own recovery. This loss of agency can have lasting consequences.
 
+**More than fifteen years of refinement converged on one semantic triplet: `[entity, relation, context]`.** Its three relation states—`HAS`, `NEED`, and `WORKING`—let a shared grammar accommodate ordinary human exchanges, community aid, education, finance, and other specialized purposes. No standard classification or written language is required before someone begins: people express their Needs and capabilities in their own local dialect or accessible mode, and meanings grow outward as their relationships and successful exchanges connect.
+
+**Human exchange is the foundation; institutions participate through composable, permission-scoped services.** A university can certify a degree arising from an educational exchange or confirm it directly from its own records without exposing the student's private chain or transaction history. Such attestations do not create a new identity system.
+
 **Has-Needs restores that agency through secure, individual digital sovereignty.** A digital sovereign can send trusted, actionable messages to responders and form instant communities to share information without surveillance or commercial extraction. Sovereign communities can self-organize and provide a coherent picture of local conditions when responders make contact.
 
 **The Has-Needs mechanism is simple.** People express what they have and need, and independently decide whether to accept a match. The associated Has and Need then enter `WORKING` together while the Need executes its conditions. After an exchange, both independently mark completion, add any optional comments, choose what is encrypted or plaintext, and preview each other's disclosure choices before selecting **Ready to commit**. Their Persona Managers write identical final transaction receipts on the private chains; matching receipts establish completed exchange.

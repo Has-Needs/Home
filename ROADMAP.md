@@ -1,5 +1,7 @@
 # Has-Needs Development Roadmap
 
+> **Historical implementation outline — superseded.** For current priorities, consult the [V1 Development Roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md). The active model places Persona Managers between user-created personas and permanently private chains; it requires independent completion, metadata disclosure, reciprocal review, and readiness before identical canonical receipt writes.
+
 *This document outlines the structured path from the current, well-documented concept to a functioning prototype.*
 
 ---

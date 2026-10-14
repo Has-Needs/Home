@@ -1,5 +1,7 @@
 # The Has-Needs Personal Receipt Chain
 
+> **Historical design narrative — not the current normative specification.** This document preserves earlier architectural ideas and may conflict with V1. The current architecture is in the [Has-Needs V1 specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md): the Persona Manager is a concierge maintaining a sacrosanct private chain behind user-created personas. Each participant independently chooses optional plaintext/encrypted metadata, reviews what the other will expose, and marks Ready to commit before identical canonical receipts are written. Existing historical text below is retained as originally developed.
+
 *This document presents Has-Needs, an emergent prosocial digitally sovereign architecture providing a "Web3.5" solution to systemic global problems.*
 
 ---

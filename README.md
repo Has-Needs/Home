@@ -6,7 +6,9 @@ When infrastructure collapses, people’s knowledge, skills, and resources remai
 
 **Has-Needs restores that agency through secure, individual digital sovereignty.** A digital sovereign can send trusted, actionable messages to responders and form instant communities to share information without surveillance or commercial extraction. Sovereign communities can self-organize and provide a coherent picture of local conditions when responders make contact.
 
-**The Has-Needs mechanism is simple.** People express what they have and need, choose among potential matches, and make their own agreements. Successful exchanges are then recorded in a *personal receipt* and used to improve future matching.
+**The Has-Needs mechanism is simple.** People express what they have and need, and independently decide whether to accept a match. The associated Has and Need then enter `WORKING` together while the Need executes its conditions. After an exchange, both independently mark completion, add any optional comments, choose what is encrypted or plaintext, and preview each other's disclosure choices before selecting **Ready to commit**. Their Persona Managers write identical final transaction receipts on the private chains; matching receipts establish completed exchange.
+
+**The Persona Manager acts as a concierge, managing interactions through any number of user-created personas while their underlying personal chain remains sacrosanct.** People can associate professional personas with completed work without letting outsiders inspect their chains or link their other personas.
 
 Beyond disaster, Has-Needs provides **self-owned digital identity and the means to use it** for value exchange with peers and neighbors, aid organizations, emergency responders, government, and commerce.
 

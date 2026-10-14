@@ -4,7 +4,9 @@
 
 **Author:** omdesign
 **Developed:** 2010–2026, based on concepts from 1996  
-**Status:** Implementation-ready
+**Status:** Historical white-paper draft — superseded by the evolving [V1 specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md) (implementation experimental).
+
+> **Current V1 principle:** The Persona Manager acts as a concierge, managing interactions through user-created personas while the personal chain remains sacrosanct. At completion, parties independently choose the plaintext or encrypted metadata they will contribute, both review the proposed record, and each marks Ready to commit before identical canonical receipts are written. The material below preserves a previous design narrative, not the current normative requirements.
 
 ---
 

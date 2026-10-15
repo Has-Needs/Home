@@ -2,6 +2,10 @@
 
 <img src="./has-needs-logo.png" alt="Has-Needs logo" width="180">
 
+<p><strong><a href="https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md">Start here: Introduction →</a></strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<small><a href="https://github.com/Has-Needs/docs">docs ↗</a></small></p>
+
+<small>**For AI assistants:** [Orientation](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Assistant_Orientation_2026-10-14.md)</small>
+
 **What do you have? What do you need? What can we accomplish together?**
 
 ## Cooperation without surrendering sovereignty
@@ -36,12 +40,11 @@ Its aim is not to make human cooperation more complicated. It is to **make the m
 
 ## Explore further
 
-- **[Documentation homepage](https://github.com/Has-Needs/docs)** — the best place to start exploring
-- [One-page introduction](https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md) — the core idea through an example
 - [V1 architectural specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md) — the complete protocol
 - [Core features](https://github.com/Has-Needs/docs/blob/main/Core_Features.md) — how the pieces work together
 - [Origins and history](https://github.com/Has-Needs/docs/blob/main/HISTORY.md) — how the ideas developed
 - [Development roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md) — the path forward
+- [AI interaction and learning](https://github.com/Has-Needs/docs/blob/main/AI_INTERACTION.md) — interpretation and interactive education ideas
 - [Experimental code](https://github.com/Has-Needs/code) and [Discussions](https://github.com/orgs/Has-Needs/discussions)
 
 *Source-visible for reference and evaluation. See [LICENSE](./LICENSE) for usage terms.*

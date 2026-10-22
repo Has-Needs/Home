@@ -49,3 +49,7 @@ Research during actual disaster coordination, refugee migration, indigenous know
 **Bluesky:** @omdesign  
 
 ---
+
+## Current contract mechanics
+
+[WORKING contracts, delegation, streams, and outcomes](https://github.com/Has-Needs/docs/blob/main/WORKING_CONTRACTS_AND_DELEGATION.md) explains the standard Need templates and custom options, permission-preserving storage, recorded handoffs, simultaneous receipts, and self-pruning routing that underpin this work. The civic disclosure policy remains open.

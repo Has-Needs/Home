@@ -36,3 +36,7 @@
 *Goal: To make the project accessible and understandable to new developers.*
 
 - [ ] **Create a Comprehensive `README.md`:** Write the main `README.md` for the project root, including a project summary, links to other documentation, and setup/run instructions.
+
+## Current contract mechanics
+
+[WORKING contracts, delegation, streams, and outcomes](https://github.com/Has-Needs/docs/blob/main/WORKING_CONTRACTS_AND_DELEGATION.md) explains the standard Need templates and custom options, permission-preserving storage, recorded handoffs, simultaneous receipts, and self-pruning routing that underpin this work. The civic disclosure policy remains open.

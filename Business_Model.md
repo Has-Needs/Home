@@ -29,3 +29,7 @@ This model is a blueprint for a new kind of economy because its incentives are f
 - **It aligns profit with positive social outcomes.** The more effective the protocol is at helping people, the more sustainable it becomes.
 
 This creates a virtuous cycle, making the Has-Needs protocol a scalable and ethically sound engine for an emergent, more equitable economic paradigm.
+
+## Current contract mechanics
+
+[WORKING contracts, delegation, streams, and outcomes](https://github.com/Has-Needs/docs/blob/main/WORKING_CONTRACTS_AND_DELEGATION.md) explains the standard Need templates and custom options, permission-preserving storage, recorded handoffs, simultaneous receipts, and self-pruning routing that underpin this work. The civic disclosure policy remains open.

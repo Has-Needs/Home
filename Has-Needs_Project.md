@@ -1,3 +1,5 @@
+> **Current architecture, 21 October 2026:** [WORKING contracts, delegation, streams, and outcomes](https://github.com/Has-Needs/docs/blob/main/WORKING_CONTRACTS_AND_DELEGATION.md). The dated narrative or review below is retained as history; use the current specification and this guide for contract execution, permissions, and reciprocal receipts.
+
 # The Has-Needs Personal Receipt Chain
 
 > **Historical design narrative — not the current normative specification.** This document preserves earlier architectural ideas and may conflict with V1. The current architecture is in the [Has-Needs V1 specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md): the Persona Manager is a concierge maintaining a sacrosanct private chain behind user-created personas. Each participant independently chooses optional plaintext/encrypted metadata, reviews what the other will expose, and marks Ready to commit before identical canonical receipts are written. Existing historical text below is retained as originally developed.

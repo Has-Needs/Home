@@ -1,3 +1,5 @@
+> **Current architecture, 21 October 2026:** [WORKING contracts, delegation, streams, and outcomes](https://github.com/Has-Needs/docs/blob/main/WORKING_CONTRACTS_AND_DELEGATION.md). The dated narrative or review below is retained as history; use the current specification and this guide for contract execution, permissions, and reciprocal receipts.
+
 
 # Has-Needs
 ## World-First Protocol for Emergent Coordination, Circular Economy, and Digital Self-Determination
@@ -1724,3 +1726,4 @@ With this level of accountability, many emergent features arise. This paper desc
 ---
 
 **End of Document**
+

@@ -2,59 +2,45 @@
 
 <img src="./has-needs-logo.png" alt="Has-Needs logo" width="180">
 
-<p><strong><a href="https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md">Start here: Introduction →</a></strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<small><a href="https://github.com/Has-Needs/docs">docs ↗</a></small></p>
+**[Start here: the Has-Needs introduction](https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md)** · [Documentation](https://github.com/Has-Needs/docs)
 
-<small>**For AI assistants:** [Orientation](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Assistant_Orientation_2026-10-14.md)</small>
+<small>**For AI assistants:** [Orientation](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Assistant_Orientation_2026-10-14.md) · [Paradigm Delta](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Paradigm_Delta_Review_2026-10-14.md)</small>
 
-**What do you have? What do you need? What can we accomplish together?**
+**What do you have? What do you need? What can we do together?**
 
-## Cooperation without surrendering sovereignty
+Has-Needs is a **post-capitalist architecture for sovereign human cooperation**, born from direct experience in rescue, disaster response, crisis mapping, and community organizing. People and communities decide what has value, choose what to exchange, and retain evidence of the results. Currency is one possible form of value.
 
-Much of human life is an exchange of value. We give and receive care, time, knowledge, labor, resources, and trust. Yet the digital systems that mediate these exchanges often require us to give someone else control over our identities, information, and records of participation.
+## Designed from the person outward
 
-**Has-Needs is a world-first architecture for sovereign human exchange.** Instead of placing a platform or institution at the center, it begins with individuals: what they have, what they need, and what they voluntarily agree to accomplish together.
+After a disaster, rescuers and aid organizations urgently seek information held by the people experiencing the event. Has-Needs is designed to let those people describe what they need, share firsthand knowledge, receive updates, and begin coordinating with one another before outside help arrives. Every participant can become the seed of a community.
 
-A person can express a need or offer something useful. Others can discover that opportunity, agree on terms, and cooperate. Once an exchange is completed, the people involved preserve their own verifiable records of it. They control what they disclose, to whom, and in which part of their lives.
+The architecture is guided by **individual sovereignty, consent, reciprocal value, fluid organization, and constant feedback**. It is designed to help mitigate trauma through agency and social connection while making cooperation useful during disaster, recovery, and ordinary life.
 
-This is more than a different way to find resources. It is a way to build relationships and lasting evidence of cooperation **without making people dependent on a central intermediary**.
+## One mechanism, many kinds of exchange
 
-## Imagine starting with one person
+One person creates a **NEED** and another offers a **HAS**. The matching engine proposes candidates using locally relevant knowledge. The Need owner chooses which match to pursue; the Has owner decides whether to accept. **Humans make the decisions.** With mutual consent, both objects enter **WORKING** while the Need's smart contract executes.
 
-Disaster reveals holes in the social fabric. A survivor may need rescue, but also know where other people are trapped or which roads are passable. Their knowledge matters. They should be able to contribute directly, not merely become an entry in an organization's database.
+A completed value exchange leaves identical receipts on the participants' personal receipt-chains, which reinforce one another through a *forest of chains*. When participants make selected completed exchange information available in plaintext, it helps local ontologies learn from successful connections and improve future matching.
 
-Now imagine neighbors sharing tools, someone providing first aid, others locating transport, and a community coordinating its own response. Each participant can contribute what they have, express what they need, and choose whom to trust. Organizations and responders can join that effort without taking it over.
+People can pool resources, form communities for any purpose, and establish their own agreements and governance. These designed emergent behaviors create practical reasons for cooperation, including across social boundaries.
 
-**The same design works on an ordinary Tuesday.** A farmer can find others to pool a purchase. A resident can ask a municipality to address a water problem and preserve the record of an accepted commitment. A researcher can invite willing participants to contribute knowledge on agreed terms. Communities can organize around shared purposes while retaining authority over their information and relationships.
+## A personal world of useful relationships
 
-## What makes it different?
+A GIS-based **Globe UI** provides a shared geographic frame for resources, Needs, and supportive connections, with accessible alternatives through text, speech, SMS, and assistive technologies. People can consume information, combine fine-grained data into useful views, and offer their own observations or derived streams under terms they control.
 
-Has-Needs is not simply a disaster app, a marketplace, or a social network. It is a common foundation that lets those kinds of interactions grow from the same human-centered rules.
-
-People can participate through different facets of their lives without exposing everything about themselves. Knowledge holders and communities choose what they share. Trust develops through experience and evidence of completed exchanges, rather than a platform assigning everyone a reputation. Institutions can provide services and attest to outcomes without becoming owners of the underlying relationships.
-
-The architecture was shaped by geographic-information work, community self-determination, and emergency response. The 2010 Haiti earthquake response was a turning point in a design effort refined over more than fifteen years.
-
-Its aim is not to make human cooperation more complicated. It is to **make the machinery behind cooperation simpler, more accessible, and more respectful of the people using it**.
-
-**Sovereignty is not something we must sacrifice to cooperate. It is where cooperation begins.**
+The **Persona Manager** governs disclosure. Core identity and actual location remain permanently secret, while a valid contract token provides positive evidence of permission for a specific use. Independently verifiable receipts provide portable evidence of agreements and completed exchanges across institutions and jurisdictions.
 
 ## Explore further
 
-- [V1 architectural specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md) — the complete protocol
-- [Core features](https://github.com/Has-Needs/docs/blob/main/Core_Features.md) — how the pieces work together
-- [Origins and history](https://github.com/Has-Needs/docs/blob/main/HISTORY.md) — how the ideas developed
-- [Development roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md) — the path forward
-- [AI interaction and learning](https://github.com/Has-Needs/docs/blob/main/AI_INTERACTION.md) — interpretation and interactive education ideas
-- [Experimental code](https://github.com/Has-Needs/code) and [Discussions](https://github.com/orgs/Has-Needs/discussions)
+- [Introduction](https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md): the complete explanation and research references
+- [V1 architectural specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md): protocol and implementation requirements
+- [Core features](https://github.com/Has-Needs/docs/blob/main/Core_Features.md) and [UI vision](https://github.com/Has-Needs/docs/blob/main/UI_Vision.md): product design
+- [WORKING contracts and delegation](https://github.com/Has-Needs/docs/blob/main/WORKING_CONTRACTS_AND_DELEGATION.md): execution, permissions, and evidence
+- [Development history](https://github.com/Has-Needs/docs/blob/main/HISTORY.md) and [roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md)
+- [Experimental code](https://github.com/Has-Needs/code) and [discussions](https://github.com/orgs/Has-Needs/discussions)
 
 *Source-visible for reference and evaluation. See [LICENSE](./LICENSE) for usage terms.*
 
-## One mechanism, many forms of cooperation
-
-A Need is a smart contract with standard templates and custom options. The WORKING state connects the involved Has and Needs while that contract executes—whether coordinating a delivery, a service request, or an open-ended Community. Delegation and permissioned data streams follow its terms. Outcomes are recorded in identical receipts written simultaneously to participants' private chains, with selective disclosure and mutual verification. The worker who fulfills a request informs the local ontology's self-pruning route to future resolution.
-
-Read [contracts, delegation, and streams](https://github.com/Has-Needs/docs/blob/main/WORKING_CONTRACTS_AND_DELEGATION.md) for examples.
-
 ## Historical exports
 
-The [PDF white paper](./Has-Needs%20White%20Paper.pdf) is a retained historical export, not the current contract description. Use the current V1 specification and WORKING contract guide linked above for the updated mechanics.
+The [PDF white paper](./Has-Needs%20White%20Paper.pdf) is a retained historical export, not the current contract description. The V1 specification and WORKING contract guide contain the current mechanics.

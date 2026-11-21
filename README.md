@@ -4,7 +4,7 @@
 
 **[Start here: the Has-Needs introduction](https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md)** · [Documentation](https://github.com/Has-Needs/docs)
 
-<small>**For AI assistants:** [Orientation](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Assistant_Orientation_2026-10-14.md) · [Paradigm Delta](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Paradigm_Delta_Review_2026-10-14.md)</small>
+<small>**For AI assistants:** [Read the Paradigm Delta](https://github.com/Has-Needs/docs/blob/main/PARADIGM_DELTA.md)</small>
 
 **What do you have? What do you need? What can we do together?**
 
@@ -28,19 +28,24 @@ People can pool resources, form communities for any purpose, and establish their
 
 A GIS-based **Globe UI** provides a shared geographic frame for resources, Needs, and supportive connections, with accessible alternatives through text, speech, SMS, and assistive technologies. People can consume information, combine fine-grained data into useful views, and offer their own observations or derived streams under terms they control.
 
-The **Persona Manager** governs disclosure. Core identity and actual location remain permanently secret, while a valid contract token provides positive evidence of permission for a specific use. Independently verifiable receipts provide portable evidence of agreements and completed exchanges across institutions and jurisdictions.
+The **Persona Manager** governs disclosure. Core identity and the private receipt chain remain protected; separately authorized disclosure governs relevant information, while a valid contract token provides positive evidence of permission for a specific use. Independently verifiable receipts provide portable evidence of agreements and completed exchanges across institutions and jurisdictions.
 
 ## Explore further
 
 - [Introduction](https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md): the complete explanation and research references
 - [V1 architectural specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md): protocol and implementation requirements
-- [Core features](https://github.com/Has-Needs/docs/blob/main/Core_Features.md) and [UI vision](https://github.com/Has-Needs/docs/blob/main/UI_Vision.md): product design
+- [V1 specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md) and [UI vision](https://github.com/Has-Needs/docs/blob/main/UI_Vision.md): product design
 - [WORKING contracts and delegation](https://github.com/Has-Needs/docs/blob/main/WORKING_CONTRACTS_AND_DELEGATION.md): execution, permissions, and evidence
-- [Development history](https://github.com/Has-Needs/docs/blob/main/HISTORY.md) and [roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md)
+- [Development history](https://github.com/Has-Needs/docs/blob/main/HISTORY.md) and [implementation profile](https://github.com/Has-Needs/docs/blob/main/Tech_Stack.md)
 - [Experimental code](https://github.com/Has-Needs/code) and [discussions](https://github.com/orgs/Has-Needs/discussions)
 
 *Source-visible for reference and evaluation. See [LICENSE](./LICENSE) for usage terms.*
 
-## Historical exports
 
-The [PDF white paper](./Has-Needs%20White%20Paper.pdf) is a retained historical export, not the current contract description. The V1 specification and WORKING contract guide contain the current mechanics.
+## Current document release
+
+Read the [definitive Paradigm Delta](https://github.com/Has-Needs/docs/blob/main/PARADIGM_DELTA.md) before architectural work, then use the matched [V1 specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md). Objects in the WORKING state affect no receipt chain; committed assets remain unavailable. Only successful exchanges produce reciprocal receipts. An accepted reduced amount uses cancellation and a new correct-amount contract. Outside participants interact through the app. Existing public-funding transparency policies apply, and citizen exposure is always anonymous.
+
+## Advisors
+
+Has-Needs benefits from the counsel of **Dr. William B. Miller, Jr.** and **Dr. Dan Diamond**, connecting substantial scholarship on living systems with distinguished medical and disaster-leadership experience. [Read about their expertise and significance to the project](https://github.com/Has-Needs/docs/blob/main/Advisors.md).
